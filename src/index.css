@@ -1,3 +1,8 @@
+@import url('https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css');
+/* rel="stylesheet" */
+/* href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" */
+
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -28,6 +33,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  /* background: black; */
 }
 
 h1 {
